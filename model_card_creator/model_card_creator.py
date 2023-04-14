@@ -5,6 +5,7 @@ from io import BytesIO
 import uuid
 from datetime import date
 
+
 class ModelCardCreator:
     def __init__(self,
                  output_path: str,
